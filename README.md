@@ -46,7 +46,3 @@ If you encounter `Expecting DECIMAL data type` errors:
   rm -rf /Users/your_user/finch_fivetran_connector/files/*
   ```
 
-## 🤝 Contributing
-
-Pull requests & issue reports are welcome!
-
